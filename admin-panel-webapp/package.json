@@ -1,0 +1,30 @@
+{
+  "name": "admin-panel-webapp",
+  "version": "1.0.0",
+  "description": "A responsive admin panel web application built with React, Vite, and Tailwind CSS.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.6",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.29.0",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  },
+  "keywords": [
+    "admin",
+    "panel",
+    "react",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
